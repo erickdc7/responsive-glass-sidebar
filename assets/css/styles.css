@@ -13,7 +13,7 @@
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Poppins", sans-serif;
   --h3-font-size: 1rem;
-  --normal-font-size: .938rem;
+  --normal-font-size: 0.938rem;
 }
 
 /*========== Responsive typography ==========*/
@@ -52,24 +52,17 @@ img {
 
 /*=============== LAYOUT ===============*/
 
-
 /*=============== HEADER ===============*/
-
 
 /*=============== SIDEBAR ===============*/
 
-
 /* Show sidebar */
-
 
 /*=============== DROPDOWN ===============*/
 
-
 /* Rotate drop icon */
-
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-
 
 /* For large devices */
