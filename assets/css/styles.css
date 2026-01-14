@@ -72,6 +72,18 @@ img {
   margin: 1rem;
 }
 
+.header__container {
+  width: 100%;
+  height: var(--header-height);
+  background-color: hsla(0, 0%, 0%, 0.2);
+  backdrop-filter: blur(16px);
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 1rem;
+}
+
 /*=============== SIDEBAR ===============*/
 
 /* Show sidebar */
