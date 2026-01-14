@@ -84,6 +84,14 @@ img {
   padding-inline: 1rem;
 }
 
+.header__logo {
+  display: flex;
+  align-items: center;
+  column-gap: 0.25rem;
+  color: var(--white-color);
+  font-weight: 500;
+}
+
 /*=============== SIDEBAR ===============*/
 
 /* Show sidebar */
