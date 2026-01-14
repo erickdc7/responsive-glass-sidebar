@@ -92,6 +92,10 @@ img {
   font-weight: 500;
 }
 
+.header__logo i {
+  font-size: 1.5rem;
+}
+
 /*=============== SIDEBAR ===============*/
 
 /* Show sidebar */
