@@ -96,6 +96,18 @@ img {
   font-size: 1.5rem;
 }
 
+.header__toggle {
+  width: 32px;
+  height: 32px;
+  border-radius: 0.5rem;
+  border: none;
+  outline: none;
+  font-size: 1.5rem;
+  background-color: hsla(0, 0%, 0%, 0.2);
+  color: var(--white-color);
+  cursor: pointer;
+}
+
 /*=============== SIDEBAR ===============*/
 
 /* Show sidebar */
