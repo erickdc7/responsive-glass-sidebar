@@ -134,6 +134,10 @@ img {
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
 }
 
+.sidebar__logo i {
+  font-size: 1.5rem;
+}
+
 /* Show sidebar */
 
 /*=============== DROPDOWN ===============*/
