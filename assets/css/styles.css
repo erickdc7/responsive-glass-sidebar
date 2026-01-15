@@ -112,7 +112,7 @@ img {
 .sidebar {
   position: fixed;
   top: 0;
-  left: 0;
+  left: -120%;
   bottom: 0;
   width: 232px;
   background-color: hsla(0, 0%, 0%, 0.2);
