@@ -169,6 +169,15 @@ img {
 /* Show sidebar */
 
 /*=============== DROPDOWN ===============*/
+.drop__button {
+  width: 100%;
+  flex-direction: row;
+  border: none;
+  outline: none;
+  background: none;
+  font: 500 var(--normal-font-size) var(--body-font);
+  cursor: pointer;
+}
 
 /* Rotate drop icon */
 
