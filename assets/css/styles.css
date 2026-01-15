@@ -158,6 +158,10 @@ img {
   font-size: 1.25rem;
 }
 
+.sidebar__link span {
+  font-weight: 500;
+}
+
 /* Show sidebar */
 
 /*=============== DROPDOWN ===============*/
