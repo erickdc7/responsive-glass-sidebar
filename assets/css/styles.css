@@ -179,6 +179,11 @@ img {
   cursor: pointer;
 }
 
+.drop__arrow {
+  margin-left: auto;
+  transition: transform 0.4s;
+}
+
 /* Rotate drop icon */
 
 /*=============== BREAKPOINTS ===============*/
