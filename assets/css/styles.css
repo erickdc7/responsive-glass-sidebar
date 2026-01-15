@@ -109,6 +109,20 @@ img {
 }
 
 /*=============== SIDEBAR ===============*/
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 232px;
+  background-color: hsla(0, 0%, 0%, 0.2);
+  backdrop-filter: blur(16px);
+  z-index: 100;
+  padding: 1rem 1rem 1.5rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  transition: left 0.4s;
+}
 
 /* Show sidebar */
 
