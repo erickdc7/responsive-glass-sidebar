@@ -3,7 +3,7 @@ const showSidebar = (toggleId, sidebarId) => {
 
 }
 
-showSidebar('', '')
+showSidebar('header-toggle', 'sidebar')
 
 /*=============== SHOW SIDEBAR LIST ===============*/
 
