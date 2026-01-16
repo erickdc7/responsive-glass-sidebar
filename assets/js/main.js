@@ -4,7 +4,7 @@ const showSidebar = (toggleId, sidebarId) => {
         sidebar = document.getElementById(sidebarId)
 
     toggle.addEventListener('click', () => {
-        
+        sidebar.classList.toggle('show-sidebar')
     })
 }
 
