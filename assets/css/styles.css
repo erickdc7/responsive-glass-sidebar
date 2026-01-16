@@ -167,6 +167,9 @@ img {
 }
 
 /* Show sidebar */
+.show-sidebar {
+  left: 0;
+}
 
 /*=============== DROPDOWN ===============*/
 .drop__button {
