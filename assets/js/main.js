@@ -18,6 +18,8 @@ drop.forEach(item => {
         dropList = item.querySelector('.drop__list')
 
     dropBtn.addEventListener('click', () => {
+        // 2. Close any other drop that are open
+
         // 1. Show drop list (Ask if the drop is open or closed)
         if (item.classList.contains('show-drop')) {
             // If it's OPEN -> IT CLOSES
