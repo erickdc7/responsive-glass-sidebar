@@ -19,5 +19,8 @@ drop.forEach(item => {
 
     dropBtn.addEventListener('click', () => {
         // 1. Show drop list (Ask if the drop is open or closed)
+        if (item.classList.contains('show-drop')) {
+
+        }
     })
 })
