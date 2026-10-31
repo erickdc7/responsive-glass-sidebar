@@ -18,6 +18,6 @@ drop.forEach(item => {
         dropList = item.querySelector('.drop__list')
 
     dropBtn.addEventListener('click', () => {
-
+        // 1. Show drop list (Ask if the drop is open or closed)
     })
 })
