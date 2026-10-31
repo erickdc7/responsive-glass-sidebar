@@ -11,4 +11,4 @@ const showSidebar = (toggleId, sidebarId) => {
 showSidebar('header-toggle', 'sidebar')
 
 /*=============== SHOW SIDEBAR LIST ===============*/
-
+const drop = document.querySelectorAll('.drop')
