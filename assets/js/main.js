@@ -23,6 +23,8 @@ drop.forEach(item => {
             // If it's OPEN -> IT CLOSES
             dropList.removeAttribute('style')
             item.classList.remove('show-drop')
+        } else {
+            //
         }
     })
 })
