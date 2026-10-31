@@ -14,5 +14,10 @@ showSidebar('header-toggle', 'sidebar')
 const drop = document.querySelectorAll('.drop')
 
 drop.forEach(item => {
-    const dropBtn = item.querySelector('.drop__button')
+    const dropBtn = item.querySelector('.drop__button'),
+        dropList = item.querySelector('.drop__list')
+
+    dropBtn.addEventListener('click', () => {
+
+    })
 })
