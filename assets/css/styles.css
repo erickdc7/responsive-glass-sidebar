@@ -195,6 +195,15 @@ img {
   transition: height 0.4s;
 }
 
+.drop__item {
+  position: relative;
+  display: block;
+  color: var(--white-color);
+  padding: 0.5rem 0.5rem 0.5rem 2.25rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.4s;
+}
+
 /* Rotate drop icon */
 
 /*=============== BREAKPOINTS ===============*/
