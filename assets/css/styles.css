@@ -187,6 +187,14 @@ img {
   transition: transform 0.4s;
 }
 
+.drop__list {
+  display: grid;
+  row-gap: 0.25rem;
+  height: 0;
+  overflow: hidden;
+  transition: height 0.4s;
+}
+
 /* Rotate drop icon */
 
 /*=============== BREAKPOINTS ===============*/
