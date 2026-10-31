@@ -217,6 +217,10 @@ img {
   border-radius: 50%;
 }
 
+.drop__item:hover {
+  background-color: hsla(0, 0%, 0%, 0.2);
+}
+
 /* Rotate drop icon */
 
 /*=============== BREAKPOINTS ===============*/
