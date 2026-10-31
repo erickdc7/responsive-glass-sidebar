@@ -25,6 +25,7 @@ drop.forEach(item => {
             item.classList.remove('show-drop')
         } else {
             // If it's CLOSED -> IT OPENS
+            dropList.style.height = dropList.scrollHeight + 'px'
         }
     })
 })
