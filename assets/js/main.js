@@ -21,6 +21,8 @@ drop.forEach(item => {
         // 2. Close any other drop that are open
         const openItem = document.querySelector('.show-drop') // Search if there are any open drop
 
+        // Check if there is an open drop
+
         // 1. Show drop list (Ask if the drop is open or closed)
         if (item.classList.contains('show-drop')) {
             // If it's OPEN -> IT CLOSES
