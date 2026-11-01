@@ -222,6 +222,9 @@ img {
 }
 
 /* Rotate drop icon */
+.show-drop .drop__arrow {
+  transform: rotate(-180deg);
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
