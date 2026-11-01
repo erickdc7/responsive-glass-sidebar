@@ -19,7 +19,7 @@ drop.forEach(item => {
 
     dropBtn.addEventListener('click', () => {
         // 2. Close any other drop that are open
-        const openItem = document.querySelector('.show-drop')
+        const openItem = document.querySelector('.show-drop') // Search if there are any open drop
 
         // 1. Show drop list (Ask if the drop is open or closed)
         if (item.classList.contains('show-drop')) {
