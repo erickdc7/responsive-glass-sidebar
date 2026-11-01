@@ -23,7 +23,7 @@ drop.forEach(item => {
 
         // Check if there is an open drop
         if (openItem && openItem !== item) {
-
+            const openList = openItem.querySelector('.drop__list')
         }
 
         // 1. Show drop list (Ask if the drop is open or closed)
