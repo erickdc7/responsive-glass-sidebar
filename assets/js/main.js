@@ -25,6 +25,7 @@ drop.forEach(item => {
         if (openItem && openItem !== item) {
             const openList = openItem.querySelector('.drop__list')
             openList.removeAttribute('style')
+            openItem.classList.remove('show-drop')
         }
 
         // 1. Show drop list (Ask if the drop is open or closed)
