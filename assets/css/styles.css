@@ -268,4 +268,10 @@ img {
     margin: 1.5rem;
     padding: 2rem 1.5rem;
   }
+
+  .main {
+    padding-left: 274px;
+    padding-top: 8rem;
+    transition: padding 0.4s;
+  }
 }
