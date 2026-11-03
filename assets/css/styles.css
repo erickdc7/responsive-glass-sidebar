@@ -246,3 +246,10 @@ img {
 }
 
 /* For large devices */
+@media screen and (min-width: 1150px) {
+  .header {
+    margin: 1.5rem;
+    padding-left: 274px;
+    transition: padding 0.4s;
+  }
+}
