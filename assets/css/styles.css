@@ -252,4 +252,9 @@ img {
     padding-left: 274px;
     transition: padding 0.4s;
   }
+
+  .header__container {
+    height: calc(var(--header-height) + 2rem);
+    padding-inline: 1.5rem;
+  }
 }
