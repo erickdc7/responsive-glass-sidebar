@@ -257,4 +257,8 @@ img {
     height: calc(var(--header-height) + 2rem);
     padding-inline: 1.5rem;
   }
+
+  .header__toggle {
+    display: none;
+  }
 }
